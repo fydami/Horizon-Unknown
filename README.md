@@ -2,9 +2,9 @@
 
 # HORIZON · UNKNOWN
 
-*neither here nor there*
+*everyone has a past. some are worth killing for.*
 
-**Canon Hub — интерактивный справочник по вселенной Horizon Unknown:**
+**Интерактивный справочник по вселенной Horizon Unknown:**
 граф связей, досье персонажей, организации, истории и хронология.
 
 <br>
