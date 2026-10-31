@@ -9,7 +9,7 @@
 
 <br>
 
-[![Открыть сайт](https://img.shields.io/badge/ОТКРЫТЬ_САЙТ-weisez.github.io-c23a2e?style=for-the-badge&labelColor=16161a)](https://weisez.github.io/Horizon-Unknown/?view)
+[![Открыть сайт](https://img.shields.io/badge/ОТКРЫТЬ_САЙТ-HORIZON_UNKNOWN-c23a2e?style=for-the-badge&labelColor=16161a)](https://weisez.github.io/Horizon-Unknown/?view)
 
 <br>
 
